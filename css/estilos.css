@@ -3,10 +3,6 @@ dialog{
     z-index: 50px !important;
 
 }
-body{
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
 .material-icons-outlined.md-18 { font-size: 18px; }
 .material-icons-outlined.md-24 { font-size: 24px; }
 .material-icons-outlined.md-36 { font-size: 36px; }
